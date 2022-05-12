@@ -10,7 +10,6 @@ I started a code 4 years ago with .Net, but I really found a passion for mobile 
 * ✉️  You can contact me at [moumniabdou.adil@gmail.com](mailto:moumniabdou.adil@gmail.com)
 * 🚀  I'm currently working on [Adil moumni abdou](http://cooloc.com)
 * 🧠  I'm learning Vue.js - python
-* 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm secretly super hero... but don't tell anyone
 
 ### Skills
